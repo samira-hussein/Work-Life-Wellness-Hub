@@ -29,6 +29,11 @@ header {
     background-color: lightcoral;
 }
 
+h1 {
+    font-family: 'Lexend', sans-serif;
+}
+
+
 /* Main content*/
 main {
     background-color: lightblue;
