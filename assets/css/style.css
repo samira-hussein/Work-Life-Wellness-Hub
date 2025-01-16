@@ -19,7 +19,7 @@ body {
 
 /* Header */
 header {
-    background-color: #ffffff;
+    background-color: #f4f4f4;
     padding: 1rem;
     position: fixed;
     top: 0;
@@ -109,26 +109,53 @@ main {
     flex: 1;
     margin-top: 80px; /* Adjusted for fixed header */
     padding: 20px;
-    background-color: lightblue;
-    text-align: center;
+    background-color: #ffffff;
+    text-align: center;;
 }
 
 main h2 {
     color: #3a3a3a;
     margin-bottom: 10px;
+    font-family: 'Amrimo', sans-serif;
 }
 
 main p {
     font-size: 1.2rem;
     color: #444;
+    font-family: 'Roboto', sans-serif;
 }
 
+
 /* Footer */
+
+#social-networks {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#social-networks i {
+    font-size: 160%;
+    padding: 5%;
+    color: #ffffff ;
+}
+
+
+
 footer {
-    background-color: #ffffff;
+    background-color: #6b40ef;
     text-align: center;
     padding: 1rem;
     font-weight: bold;
 }
+
+footer p {
+    color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+}
+
 
 
