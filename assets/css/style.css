@@ -109,9 +109,16 @@ main {
     flex: 1;
     margin-top: 80px; /* Adjusted for fixed header */
     padding: 20px;
-    background-color: #ffffff;
-    text-align: center;;
+    text-align: center;
 }
+
+/* Hero section */
+#hero {
+    height: 600px;
+    width: 100%;
+    background: url('../images/hero.jpg') no-repeat center center/cover;
+}
+
 
 main h2 {
     color: #3a3a3a;
