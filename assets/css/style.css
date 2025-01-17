@@ -224,14 +224,10 @@ main {
     }
 }
 
-
 /* Alert */
 .alert ul {
     list-style-type: none; /* Remove bullet points */
     padding-left: 0; /* Remove default padding */
-    display: flex; /* Display list items in a row */
-    flex-wrap: wrap; /* Allow wrapping to the next line */
-    gap: 1rem; /* Add horizontal spacing between list items */
 }
 
 .alert ul li {
@@ -239,10 +235,12 @@ main {
 }
 
 .alert-success {
-    background-color: #9779f3; /* Updated background color */
-    color: #fff; /* Ensure text is readable */
-    border-color: #9779f3; /* Match border color */
+    background-color: #ccccff !important; 
+    color: #04294f !important; 
+    border-color: #6b40ef !important; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
+
 
 .alert-success h4 {
     color: #04294f !important;
@@ -250,20 +248,12 @@ main {
     font-size: 2rem;
 }
 
-.alert-success p {
-    color: #04294f !important;
-    font-family: 'Arimo', sans-serif;
-    font-weight: 200;
+#fot1 {
+    color: #04294f;
+    font-family: 'Roboto', sans-serif;
+    font-size: large;
 }
 
-
-
-
-.alert-success p {
-    color: #04294f !important;
-    font-family: 'Arimo', sans-serif;
-    font-weight: 200;
-}
 
 /* Footer */
 footer {
