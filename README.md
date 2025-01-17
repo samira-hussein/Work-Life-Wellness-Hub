@@ -20,7 +20,7 @@ AI played a key role in:
 
 
 ## View the Live Website
-You can view the live website here: [https://samira-hussein.github.io/Work-Life-Wellness-Hub/]
+You can view the live website here: (https://samira-hussein.github.io/Work-Life-Wellness-Hub/)
 
 ## Screenshots
 
