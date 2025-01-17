@@ -20,8 +20,15 @@ AI played a key role in:
 
 
 ## View the Live Website
-You can view the live website here: [Mental Health Awareness Website] (http://localhost:8000/index.html)
+
 
 ## Screenshots
 
 ### Desktop View
+![Screenshot 2025-01-17 120836](https://github.com/user-attachments/assets/f7c387e6-9097-40bf-86b9-563dc2cdf957)
+
+### Mobile View
+![Screenshot 2025-01-17 121436](https://github.com/user-attachments/assets/949bcb65-6fe9-4426-8ca7-93943140f805)
+
+
+
