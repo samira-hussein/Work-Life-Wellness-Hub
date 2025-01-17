@@ -217,28 +217,34 @@ main {
 }
 
 .alert ul li {
-    margin-bottom: 0.5rem; /* Add some spacing between list items */
+    margin-bottom: 0.5rem; 
 }
 
 .alert-success {
-    background-color: #E6CCFF !important; /* Light Purple */
-    color: #4B0082 !important; /* Dark Purple for contrast */
-    border-color: #D8BFD8 !important; /* Light Lavender border */
+    background-color: #ccccff !important; 
+    color: #04294f !important; 
+    border-color: #ccccff !important; 
 }
 
 .alert-success h4 {
-    color: #4B0082 !important;
+    color: #04294f !important;
+    font-family: 'Lexend', sans-serif;
+    font-size: 2rem;
 }
 
-.alert-success hr {
-    border-top: 1px solid #D8BFD8 !important;
+#fot1 {
+    color: #04294f;
+    font-family: 'Roboto', sans-serif;
+    font-size: large;
 }
 
-.alert-success ul li {
-    color: #4B0082 !important;
+
+
+.alert-success p {
+    color: #04294f !important;
+    font-family: 'Arimo', sans-serif;
+    font-weight: 200;
 }
-
-
 
 /* Footer */
 footer {
