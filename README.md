@@ -41,7 +41,9 @@ To ensure the success of the site there was testing and debugging carried out th
 ### No errors in HTML 
 ![Screenshot 2025-01-17 134725](https://github.com/user-attachments/assets/ec750456-b392-41d3-9a42-3e31b423b732)
 
-
+### Lighthouse 
+![Screenshot 2025-01-17 135839](https://github.com/user-attachments/assets/e3638512-49a2-471f-be0d-7038e7b7329f)
+- **As you can see there is a room for improvement**
 
 
 
