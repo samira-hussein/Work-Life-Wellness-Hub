@@ -31,7 +31,7 @@ You can view the live website here: (https://samira-hussein.github.io/Work-Life-
 ![Screenshot 2025-01-17 121436](https://github.com/user-attachments/assets/949bcb65-6fe9-4426-8ca7-93943140f805)
 
 ## Testing 
-To ensure the success of the site there was testing and debugging carried out throughout the process. This meant that the site is now successfully deployed and has passed testing. 
+To ensure the functionality and accessibility of the Mental Health Awareness Webpage, thorough testing and debugging were carried out throughout the development process. The site has successfully passed all validation checks and is now fully deployed.
 
 ## validations
 
@@ -41,9 +41,11 @@ To ensure the success of the site there was testing and debugging carried out th
 ### No errors in HTML 
 ![Screenshot 2025-01-17 134725](https://github.com/user-attachments/assets/ec750456-b392-41d3-9a42-3e31b423b732)
 
+Both HTML and CSS validations were successfully passed, guaranteeing compliance with web standards and best practices
+
 ### Lighthouse 
 ![Screenshot 2025-01-17 135839](https://github.com/user-attachments/assets/e3638512-49a2-471f-be0d-7038e7b7329f)
-
+Lighthouse was used to evaluate the website's performance, accessibility, best practices, and SEO. The results confirm that the website meets high standards for user experience and efficiency.
 
 
 
