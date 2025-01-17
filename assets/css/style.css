@@ -221,9 +221,21 @@ main {
 }
 
 .alert-success {
-    background-color: rgba(107, 64, 239, 0.5); /* Semi-transparent purple */
-    border-color: rgba(107, 64, 239, 0.5); /* Match border color */
-    color: #fff; /* Ensure text is readable */
+    background-color: #E6CCFF !important; /* Light Purple */
+    color: #4B0082 !important; /* Dark Purple for contrast */
+    border-color: #D8BFD8 !important; /* Light Lavender border */
+}
+
+.alert-success h4 {
+    color: #4B0082 !important;
+}
+
+.alert-success hr {
+    border-top: 1px solid #D8BFD8 !important;
+}
+
+.alert-success ul li {
+    color: #4B0082 !important;
 }
 
 
