@@ -229,6 +229,9 @@ main {
 .alert ul {
     list-style-type: none; /* Remove bullet points */
     padding-left: 0; /* Remove default padding */
+    display: flex; /* Display list items in a row */
+    flex-wrap: wrap; /* Allow wrapping to the next line */
+    gap: 1rem; /* Add horizontal spacing between list items */
 }
 
 .alert ul li {
@@ -236,10 +239,9 @@ main {
 }
 
 .alert-success {
-    background-color: #ccccff !important; 
-    color: #04294f !important; 
-    border-color: #ccccff !important; 
-    box-shadow: #3a3a3a;
+    background-color: #9779f3; /* Updated background color */
+    color: #fff; /* Ensure text is readable */
+    border-color: #9779f3; /* Match border color */
 }
 
 .alert-success h4 {
@@ -248,11 +250,12 @@ main {
     font-size: 2rem;
 }
 
-#fot1 {
-    color: #04294f;
-    font-family: 'Roboto', sans-serif;
-    font-size: large;
+.alert-success p {
+    color: #04294f !important;
+    font-family: 'Arimo', sans-serif;
+    font-weight: 200;
 }
+
 
 
 
