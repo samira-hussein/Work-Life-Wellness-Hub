@@ -43,7 +43,7 @@ To ensure the success of the site there was testing and debugging carried out th
 
 ### Lighthouse 
 ![Screenshot 2025-01-17 135839](https://github.com/user-attachments/assets/e3638512-49a2-471f-be0d-7038e7b7329f)
-- **As you can see there is a room for improvement**
+- **As you can see there is room for improvement**
 
 
 
