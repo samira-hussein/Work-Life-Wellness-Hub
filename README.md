@@ -30,5 +30,19 @@ You can view the live website here: [https://samira-hussein.github.io/Work-Life-
 ### Mobile View
 ![Screenshot 2025-01-17 121436](https://github.com/user-attachments/assets/949bcb65-6fe9-4426-8ca7-93943140f805)
 
+## Testing 
+To ensure the success of the site there was testing and debugging carried out throughout the process. This meant that the site is now successfully deployed and has passed testing. 
+
+## validations
+
+### No errors in CSS
+![Screenshot 2025-01-17 134224](https://github.com/user-attachments/assets/3b308c01-d6c8-478c-97a5-4a649bf6e768)
+
+### No errors in HTML 
+![Screenshot 2025-01-17 134725](https://github.com/user-attachments/assets/ec750456-b392-41d3-9a42-3e31b423b732)
+
+
+
+
 
 
