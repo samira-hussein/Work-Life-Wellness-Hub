@@ -188,12 +188,6 @@ main {
 }
 
 
-
-
-
-
-
-
 #image2 {
     background-image: url('../images/businessstresscompositions.jpg');
     background-size: cover;
@@ -214,6 +208,25 @@ main {
         height: 200px; /* Adjust height for mobile phones */
     }
 }
+
+
+/* Alert */
+.alert ul {
+    list-style-type: none; /* Remove bullet points */
+    padding-left: 0; /* Remove default padding */
+}
+
+.alert ul li {
+    margin-bottom: 0.5rem; /* Add some spacing between list items */
+}
+
+.alert-success {
+    background-color: rgba(107, 64, 239, 0.5); /* Semi-transparent purple */
+    border-color: rgba(107, 64, 239, 0.5); /* Match border color */
+    color: #fff; /* Ensure text is readable */
+}
+
+
 
 /* Footer */
 footer {
@@ -241,5 +254,4 @@ footer {
 footer p {
     font-size: 0.9rem;
 }
-
 
