@@ -151,13 +151,28 @@ main {
     color: #04294f;
 }
 
-.wel {
+/* Right under hero image*/
+
+#wel {
     color: #6b40ef;
     font-family: 'Arimo', sans-serif;
     font-size: 1.2rem;
+    font-weight: 700;
 }
 
 #col1 {
+    color: #04294f;
+    font-family: 'Roboto', sans-serif;
+}
+
+#part1 {
+    color: #6b40ef;
+    font-family: 'Arimo', sans-serif;
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+
+#part2 {
     color: #04294f;
     font-family: 'Roboto', sans-serif;
 }
@@ -224,6 +239,7 @@ main {
     background-color: #ccccff !important; 
     color: #04294f !important; 
     border-color: #ccccff !important; 
+    box-shadow: #3a3a3a;
 }
 
 .alert-success h4 {
